@@ -9,19 +9,25 @@ Este é um jogo desenvolvido em linguagem C pautado na utilização dos conceito
 ### Exemplo de saída de habilidade em cone:
 
 0 0 5 0 0
+
 0 5 5 5 0
+
 5 5 5 5 5
 
 ### Exemplo de saída de habilidade em octaedro:
 
 0 0 5 0 0
+
 0 5 5 5 0
+
 0 0 5 0 0
 
 ### Exemplo de saída de habilidade em cruz:
 
 0 0 5 0 0
+
 5 5 5 5 5
+
 0 0 5 0 0
  
 ## Pré-requisitos
