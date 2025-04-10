@@ -6,24 +6,22 @@ Este é um jogo desenvolvido em linguagem C pautado na utilização dos conceito
 - Os navios são representados pelo número 3
 - Áreas com habilidades especiais tem formatos geométricos (cone, octaedro e cruz), sendo representadas pelo número 5, exceto se houver sobreposição dos navios
 
-# Exemplos de saídas das habilidades especiais no tabuleiro:
-
-Cone:
+### Exemplo de saída de habilidade em cone:
 
 0 0 5 0 0
 0 5 5 5 0
 5 5 5 5 5
 
-Octaedro:
-
-0 0 5 0 0
-5 5 5 5 5
-0 0 5 0 0
-
-Cruz:
+### Exemplo de saída de habilidade em octaedro:
 
 0 0 5 0 0
 0 5 5 5 0
+0 0 5 0 0
+
+### Exemplo de saída de habilidade em cruz:
+
+0 0 5 0 0
+5 5 5 5 5
 0 0 5 0 0
  
 ## Pré-requisitos
