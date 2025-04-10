@@ -1,5 +1,5 @@
 
-# Super Trunfo de Cidades
+# Batalha Naval
 
 Este é um jogo desenvolvido em linguagem C pautado na utilização dos conceitos de matrizes e vetores o qual exibe um tabuleiro 10x10 representando o jogo de Batalha Naval, com a seguinte lógica:
 - A água é representada pelo número 0
