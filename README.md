@@ -8,19 +8,19 @@ Este é um jogo desenvolvido em linguagem C pautado na utilização dos conceito
 
 # Exemplos de saídas das habilidades especiais no tabuleiro:
 
-*Cone:*
+Cone:
 
 0 0 5 0 0
 0 5 5 5 0
 5 5 5 5 5
 
-*Octaedro:*
+Octaedro:
 
 0 0 5 0 0
 5 5 5 5 5
 0 0 5 0 0
 
-*Cruz:*
+Cruz:
 
 0 0 5 0 0
 0 5 5 5 0
